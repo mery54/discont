@@ -70,11 +70,11 @@ $noresave{$key} = "$nosave";
 
 
 $key = q/sec:course-discont/;
-$external_latex_labels{$key} = q|x3-20001 x3-20001:autorefsectionCourse DISCONT: Modelling hybrid systems|; 
+$external_latex_labels{$key} = q|1 Course DISCONT: Modelling hybrid systems|; 
 $noresave{$key} = "$nosave";
 
 $key = q/sec:documentation/;
-$external_latex_labels{$key} = q|x4-30001.1 x4-30001.1:autorefsubsectionDocumentation|; 
+$external_latex_labels{$key} = q|1.1 Documentation|; 
 $noresave{$key} = "$nosave";
 
 1;
